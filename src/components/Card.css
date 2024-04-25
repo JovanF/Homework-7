@@ -1,0 +1,21 @@
+.Card {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+  text-align: center;
+  text-decoration: none; /* Remove link underline */
+  color: #333; /* Set text color for the card */
+}
+
+.Card h1,
+.Card h2,
+.Card h3 {
+  color: #ffffff; /* Set text color for headings */
+}
+
+.Card a {
+  display: block;
+  margin-bottom: 10px;
+}
